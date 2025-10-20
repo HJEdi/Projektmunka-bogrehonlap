@@ -1,1 +1,1 @@
-A kosárban az option és inputothoz a szüleimtől kértem segítséget mert nem tudtam hogyan lehet ezt megvalósítani
+A kosárban az option és inputothoz a chat gpt-től kértem segítséget mert nem tudtam hogyan lehet ezt megvalósítani
